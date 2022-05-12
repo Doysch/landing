@@ -16,6 +16,9 @@
   padding: 200px 0;
 }
 
+h1 {
+  font-size: 64px;
+}
 
 h1, p {
   color: white;
@@ -35,4 +38,8 @@ p {
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
+}
+
+.container > p {
+  font-size: 26px;
 }
