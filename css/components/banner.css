@@ -1,0 +1,38 @@
+* {
+  margin: 0 auto;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+
+}
+
+.container {
+
+  margin: auto;
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0;
+}
+
+
+h1, p {
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px black;
+}
+
+.banner p {
+  color: white;
+  opacity: .9;
+  font-size: 20px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
